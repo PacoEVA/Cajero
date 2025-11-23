@@ -1,0 +1,14 @@
+C:\Users\LENOVO\source\repos\Cajero\Cajero\bin\Debug\net9.0\Cajero.exe
+C:\Users\LENOVO\source\repos\Cajero\Cajero\bin\Debug\net9.0\Cajero.deps.json
+C:\Users\LENOVO\source\repos\Cajero\Cajero\bin\Debug\net9.0\Cajero.runtimeconfig.json
+C:\Users\LENOVO\source\repos\Cajero\Cajero\bin\Debug\net9.0\Cajero.dll
+C:\Users\LENOVO\source\repos\Cajero\Cajero\bin\Debug\net9.0\Cajero.pdb
+C:\Users\LENOVO\source\repos\Cajero\Cajero\obj\Debug\net9.0\Cajero.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO\source\repos\Cajero\Cajero\obj\Debug\net9.0\Cajero.AssemblyInfoInputs.cache
+C:\Users\LENOVO\source\repos\Cajero\Cajero\obj\Debug\net9.0\Cajero.AssemblyInfo.cs
+C:\Users\LENOVO\source\repos\Cajero\Cajero\obj\Debug\net9.0\Cajero.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\source\repos\Cajero\Cajero\obj\Debug\net9.0\Cajero.dll
+C:\Users\LENOVO\source\repos\Cajero\Cajero\obj\Debug\net9.0\refint\Cajero.dll
+C:\Users\LENOVO\source\repos\Cajero\Cajero\obj\Debug\net9.0\Cajero.pdb
+C:\Users\LENOVO\source\repos\Cajero\Cajero\obj\Debug\net9.0\Cajero.genruntimeconfig.cache
+C:\Users\LENOVO\source\repos\Cajero\Cajero\obj\Debug\net9.0\ref\Cajero.dll
